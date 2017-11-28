@@ -1,7 +1,7 @@
-# The P2P Marketplace Project(P2PMP or P2P Marketplace)
+# The P2P Marketplace Project
 
 
-P2P Marketplace is A blockchain framework for building competitive marketplaces built on top of Quorum(https://github.com/jpmorganchase/quorum).
+P2P Marketplace(P2PMP) is A blockchain framework for building competitive marketplaces built on top of Quorum(https://github.com/jpmorganchase/quorum).
 
 Goals & Enhancements:
 
