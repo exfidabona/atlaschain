@@ -16,7 +16,7 @@ Goals & Enhancements:
 [P2P_Marketplace_Project.pdf](https://github.com/exfidabona/p2p-marketplace-docs/blob/master/P2P_Marketplace_Project_Whitepaper_v0.1.pdf).
 
 
-## Learn About Our Pilot Project
+## The Pilot: Compliance of Everything Network
 We are designing the first pilot project to be built with The P2P Marketplace Project. It will be a blockchain based marketplace connecting our users directly with due dilligence data, called the Compliance of Everything Network. [Read more at coen.io](http://coen.io)
 
 
