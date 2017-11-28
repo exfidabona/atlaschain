@@ -25,7 +25,7 @@ We are designing the first pilot project to be built with The P2P Marketplace Pr
 
 Thank you for your interest in contributing to The P2P Marketplace Project!
 
-Quorum is built on open source and we invite you to contribute enhancements. Upon review you will be required to complete a Contributor License Agreement (CLA) before we are able to merge. If you have any questions about the contribution process, please feel free to send an email to [research@coen.io](mailto:research@coen.io).
+This project is built on open source and we invite you to contribute enhancements. Upon review you will be required to complete a Contributor License Agreement (CLA) before we are able to merge. If you have any questions about the contribution process, please feel free to send an email to [research@coen.io](mailto:research@coen.io).
 
 ## License
 
