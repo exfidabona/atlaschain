@@ -3,6 +3,8 @@
 
 P2P Marketplace(P2PMP) is A blockchain framework for building competitive marketplaces built on top of Quorum(https://github.com/jpmorganchase/quorum).
 
+The idea behind the framework is to create a plug and play environment for entrepreneurs to create digital marketplaces that are driven by their own customized cryptocurrency. This framework would be analagous to what wordpress was for blogs.
+
 Goals & Enhancements:
 
   * __Adapt Governance__ - Quorum is built for financial institutions. We want to adapt their model of governance and privacy for digital marketplaces. We want to keep permissions, but optimize them for open competition.
