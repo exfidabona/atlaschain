@@ -3,25 +3,19 @@
 
 P2P Marketplace(P2PMP) is A blockchain framework for building competitive marketplaces built on top of Quorum(https://github.com/jpmorganchase/quorum).
 
-The idea behind the framework is to create a plug and play environment for entrepreneurs to create digital marketplaces that are driven by their own customized cryptocurrency.__This framework would be analagous for blockchains to what wordpress was for blogs__.
+The idea behind the framework is to create a plug and play environment for entrepreneurs to create marketplaces tha directly buy and sell information assets using a customized cryptocurrency.__Our hypothesis is that blockchain technologies will do for digital marketplaces what the internet revolution did for blogging. Therefore, The P2P Marketplace Project is analagous to the blockchain version of wordpress__.
 
 Necessary Enhancements to Quorum:
 
-  * __Adapt Governance__ - Quorum is built for financial institutions. We want to adapt their model of governance and privacy for digital marketplaces. We want to keep permissions, but optimize them for open competition.
-  * __Proof of Merit__ - Create a new BFT algorithm modeled after dBFT to be optimized for digital asset authentication and delegate reputation
-  * __Marketplace Business Logic__ - Similar to Quorum extending consensus to genesis contracts, we want to make marketplace business logic work out of the box and also be customizable
-  * __Add Customizable Token Incentive__ - Also using a genesis defined smart contract we want to let users create and customize their own mineable cryptocurrency
+
+  * __Reputation Based Consensus__ - Build a reputation system smart contract that drives a RAFT peer-to-peer network consensus algorithm
+  * __Digital Asset Proofing__ - Create a plugin system for proofing different kinds of digital assets
+  * __Add Customizable incentive__ - The Quorum project removed ether gas and incentives from transactions and block creation. We want to allow the optional install of a smart contract based liquid token that can replace it.
 
 
 ## Read The Whitepaper
 
-[P2P_Marketplace_Project.pdf](https://github.com/exfidabona/p2p-marketplace-docs/blob/master/P2P_Marketplace_Project_Whitepaper_v0.1.pdf).
-
-
-## The Pilot: Compliance of Everything Network
-We are designing the first pilot project to be built with The P2P Marketplace Project. It will be a blockchain based marketplace connecting our users directly with due dilligence data, called the Compliance of Everything Network. [Read more at coen.io](http://coen.io)
-
-
+[P2P_Marketplace_Project.pdf](https://github.com/exfidabona/p2p-marketplace-docs/blob/master/P2P_Marketplace_Project_Whitepaper_v0.2.pdf.
 
 ## Contributing
 
